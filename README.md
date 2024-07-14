@@ -13,7 +13,7 @@
 
 ![image](https://github.com/indu-p19/CodeTechIt_Task-2/assets/175217202/de2ac7d7-5272-4823-8aa0-bd5469595afc)
 ![image](https://github.com/indu-p19/CodeTechIt_Task-2/assets/175217202/40cb20b1-0c71-45f3-8024-9d9f5a2760e4)
-![image](https://github.com/indu-p19/CodeTechIt_Task-2/assets/175217202/f09e374b-ce2b-4749-b50a-d8ac305e129c)
+
 
 
 
