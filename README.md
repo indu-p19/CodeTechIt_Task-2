@@ -1,10 +1,10 @@
 # CodeTechIt_Task-2
 **Name**: NARENDRA INDU PRIYA <br/>
 **Company**: CODETECH IT SOLUTIONS <br/>
-**ID:** <br/>
+**ID:** CT4WD3375 <br/>
 **Domain:** WEB DEVELOPMENT<br/>
 **Duration:** July 1st to Aug 1st 2024<br/>
-**Mentor:**<br/>
+**Mentor:** +91 93912 61627 <br/>
 
 
 ##Overview of the project
